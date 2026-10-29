@@ -1,0 +1,6 @@
+SITE DO PROJETO ACEx — COMUNICAÇÃO VISUAL DE SEGURANÇA
+
+Abra index.html no navegador para visualizar o site.
+O site é estático, feito em HTML e CSS, e pode ser hospedado em serviços como GitHub Pages ou Netlify.
+
+Antes de publicar, revise a descrição das atividades realizadas, acrescente nomes dos integrantes/instituição se desejado e complete as referências acadêmicas consultadas. A proposta visual não representa aprovação oficial de rotulagem.
